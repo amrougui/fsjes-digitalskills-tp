@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(196, 196, 196);
+}
+
+#highlight {
+    color: blue;
+    font-weight: bold;
+}
+
+li {
+    color: green;
+}
+
+#special {
+    border: 2px solid gray;
+}
+
+#pomme {
+    color: yellow;
+}

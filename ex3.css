@@ -1,0 +1,45 @@
+#globcontainer {
+  background-color: white;
+  border: 2px solid blue;
+  margin-right: auto;
+  margin-left: auto;
+  width: 30%;
+}
+
+.tablecontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.cellheader {
+  border: 2px solid blue;
+  height: 120px;
+  width: 65px;
+  margin: 5px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.cell {
+  border: 2px solid blue;
+  height: 35px;
+  width: 90px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

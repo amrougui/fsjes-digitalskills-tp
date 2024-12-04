@@ -1,0 +1,50 @@
+.big {
+    font-size: 7em;
+}
+
+.large {
+    font-size: 6em;
+}
+
+.medium {
+    font-size: 5em;
+}
+
+.small {
+    font-size: 4em;
+}
+
+.red {
+    color: #ff0000;
+    font-size: 6em;
+}
+
+.blue {
+    color: #123456;
+    font-size: 6em;
+}
+
+.darkblue {
+    color: #0000ff;
+    font-size: 6em;
+}
+
+.cyan {
+    color: #37f8d3;
+    font-size: 6em;
+}
+
+.magenta {
+    color: #ff00ff;
+    font-size: 6em;
+}
+
+.green {
+    color: #00ff00;
+    font-size: 6em;
+}
+
+.navy {
+    color: #324890;
+    font-size: 6em;
+}
